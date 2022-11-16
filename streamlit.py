@@ -12,8 +12,7 @@ st.caption('This dataset includes information on hourly NYC Ferry boardings by d
 if st.checkbox('Show first 100 records of NYC Ferry Ridership Dataset'):
     st.dataframe(df)
 
-code = '''if st.checkbox('Show first 100 records of NYC Ferry Ridership Dataset'):
-    '''
+code = '''if st.checkbox('Show first 100 records of NYC Ferry Ridership Dataset'):'''
 st.code(code, language='python')
 
 ## bar chart
