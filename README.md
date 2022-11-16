@@ -6,11 +6,11 @@ Screenshot of the dashoard has been included in the image folder
 
 In Azure VM:
 
-* git clone https://github.com/rayou2/dashboard-streamlit.git 
+* git clone git-repo-link
 
-* cd dashboard-streamlit/
+* cd to the repo directory 
 
-* streamlit run streamlit.py
+* streamlit run py file (streamlit.py)
 
 * nagivate to the external IP address 
 
